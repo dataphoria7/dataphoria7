@@ -1,11 +1,17 @@
-# 👋 Hi, I'm Byron  
+## 👋 Hi, I am Byron.
 
-I'm currently completing a Data Analysis Specialist Certification (Coursera & IBM), building expertise in data-driven insights and visualization. Passionate about Agentic AI and intelligent workflows, I’m exploring AI automation with Microsoft Semantic Kernel and ServiceNow to develop impactful solutions.  
+Thanks for stopping by! Whether you're a recruiter, hiring manager, or an industry professional focused on efficiency and innovation in service operations, I appreciate your time. If you'd like to connect, collaborate, or discuss potential opportunities, feel free to reach out. Looking forward to meaningful conversations!
 
-Open to collaborations and eager to dive into entry-level opportunities in AI-driven automation! 
+Currently, I am completing a Data Analysis Specialist Certification (Coursera & IBM), building expertise in data-driven insights and automation. My background spans call center operations for the retirement and small business industries, technical support, and internet service sales.
+
+Bilingual in English and Spanish, with hands-on experience in Spanish-language Natural Language Understanding (NLU) for IVR systems integrated with Genesys and Amazon Cloud. Developed and refined Spanish prompts for Amazon’s large language model (LLM) to enhance AI-driven speech recognition and workflow automation. Conducted testing and evaluation to identify inaccuracies, improving AI model response accuracy and efficiency in automated customer interactions.
+
+Passionate about leveraging Agentic AI and workflow automation to optimize efficiency and elevate customer experiences. Currently exploring Microsoft Semantic Kernel and ServiceNow AI to develop intelligent service solutions. Open to collaborations and entry-level opportunities in AI-powered automation and service optimization.
+
 
 ## 🔹 Skills & Technologies  
 
+- Natural Language Understanding (NLU) → Spanish-language prompt design and AI-driven voice recognition for IVR systems integrated with Genesys and Amazon Cloud.
 - Data Analysis & Visualization → Python, Pandas, Matplotlib  
 - Agentic AI & AI Orchestration → Microsoft Semantic Kernel, AI Workflow Automation
 - Machine Learning Fundamentals (Infosys education)→ Supervised Learning, Neural Networks
@@ -19,8 +25,7 @@ Open to collaborations and eager to dive into entry-level opportunities in AI-dr
 
 ## 🏆 Industry Experience & AI Goals 
 
-With a background in call center operations, technical support, and internet service sales, I’m exploring how Agentic AI can revolutionize workflows, optimize efficiency, and enhance customer experiences through AI-driven automation.
-  
+With experience in call center operations for the retirement and small business industries, as well as technical support and internet service sales, I’m exploring how Agentic AI can transform workflows, maximize efficiency, and elevate customer experiences through AI-driven automation.  
 
 ## 📬 Connect With Me  
 
